@@ -96,7 +96,7 @@ GitHub Actions 会每 2 小时自动运行一次，更新所有域名的最佳 I
 ## 📖 相关链接
 
 - **原项目**: https://github.com/521xueweihan/GitHub520
-- **本 Fork**: https://github.com/hizml/GitHub520
+- **本 Fork**: https://github.com/hizml/GitHub-TMDB-Hosts
 
 ---
 

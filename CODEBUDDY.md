@@ -4,7 +4,7 @@ This file provides guidance to CodeBuddy Code when working with code in this rep
 
 ## 项目概述
 
-GitHub520 是一个自动化工具,通过修改 hosts 文件来解决 GitHub 访问慢和图片加载问题。项目自动获取 GitHub 相关域名的最优 IP 地址,并定期更新 hosts 内容。
+GitHub-TMDB-Hosts 是基于 GitHub520 的扩展版本，在原有 GitHub 域名基础上添加了 TMDB、IMDb、TheTVDB 等影视数据库域名支持。项目通过修改 hosts 文件来解决访问慢和图片加载问题。
 
 ## 核心架构
 
@@ -24,7 +24,7 @@ GitHub520 是一个自动化工具,通过修改 hosts 文件来解决 GitHub 访
   - Windows 平台特殊适配 (WindowsSelectorEventLoopPolicy)
 
 - **`update_ips.py`**: GitHub Actions 自动更新模块
-  - 从远程 API (raw.hellogithub.com/hosts.json) 获取已验证的 IP 列表
+  - 从远程 API (raw.githubusercontent.com/hizml/GitHub-TMDB-Hosts/main/hosts.json) 获取已验证的 IP 列表
   - 简化流程,仅负责格式化和写入
 
 ### 2. 数据流转

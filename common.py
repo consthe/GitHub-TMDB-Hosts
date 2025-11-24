@@ -41,19 +41,19 @@ GITHUB_URLS = [
     'thetvdb.com', 'api.thetvdb.com'
 ]
 
-HOSTS_TEMPLATE = """# GitHub520 Host Start
+HOSTS_TEMPLATE = """# GitHub-TMDB-Hosts Start
 {content}
 
 # Update time: {update_time}
-# Update url: https://raw.hellogithub.com/hosts
-# Star me: https://github.com/hizml/GitHub520
+# Update url: https://raw.githubusercontent.com/hizml/GitHub-TMDB-Hosts/main/hosts
+# Star me: https://github.com/hizml/GitHub-TMDB-Hosts
 # Star original: https://github.com/521xueweihan/GitHub520
-# GitHub520 Host End\n"""
+# GitHub-TMDB-Hosts End\n"""
 
 
 @retry(tries=3)
 def get_json(session: Any) -> Optional[list]:
-    url = 'https://raw.hellogithub.com/hosts.json'
+    url = 'https://raw.githubusercontent.com/hizml/GitHub-TMDB-Hosts/main/hosts.json'
     try:
         rs = session.get(url)
         data = json.loads(rs.text)
