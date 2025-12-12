@@ -36,70 +36,70 @@
 
 ```bash
 # GitHub-TMDB-Hosts Start
-# IP Address Not Found        alive.github.com
-# IP Address Not Found        api.github.com
-# IP Address Not Found        api.individual.githubcopilot.com
-# IP Address Not Found        avatars.githubusercontent.com
-# IP Address Not Found        avatars0.githubusercontent.com
-# IP Address Not Found        avatars1.githubusercontent.com
-# IP Address Not Found        avatars2.githubusercontent.com
-# IP Address Not Found        avatars3.githubusercontent.com
-# IP Address Not Found        avatars4.githubusercontent.com
-# IP Address Not Found        avatars5.githubusercontent.com
-# IP Address Not Found        camo.githubusercontent.com
-# IP Address Not Found        central.github.com
-# IP Address Not Found        cloud.githubusercontent.com
-# IP Address Not Found        codeload.github.com
-# IP Address Not Found        collector.github.com
-# IP Address Not Found        desktop.githubusercontent.com
-# IP Address Not Found        favicons.githubusercontent.com
-# IP Address Not Found        gist.github.com
-# IP Address Not Found        github-cloud.s3.amazonaws.com
-# IP Address Not Found        github-com.s3.amazonaws.com
-# IP Address Not Found        github-production-release-asset-2e65be.s3.amazonaws.com
-# IP Address Not Found        github-production-repository-file-5c1aeb.s3.amazonaws.com
-# IP Address Not Found        github-production-user-asset-6210df.s3.amazonaws.com
-# IP Address Not Found        github.blog
-# IP Address Not Found        github.com
-# IP Address Not Found        github.community
-# IP Address Not Found        github.githubassets.com
-# IP Address Not Found        github.global.ssl.fastly.net
-# IP Address Not Found        github.io
-# IP Address Not Found        github.map.fastly.net
-# IP Address Not Found        githubstatus.com
-# IP Address Not Found        live.github.com
-# IP Address Not Found        media.githubusercontent.com
-# IP Address Not Found        objects.githubusercontent.com
-# IP Address Not Found        pipelines.actions.githubusercontent.com
-# IP Address Not Found        raw.githubusercontent.com
-# IP Address Not Found        user-images.githubusercontent.com
-# IP Address Not Found        vscode.dev
-# IP Address Not Found        education.github.com
-# IP Address Not Found        private-user-images.githubusercontent.com
-# IP Address Not Found        tmdb.org
-# IP Address Not Found        api.tmdb.org
-# IP Address Not Found        files.tmdb.org
-# IP Address Not Found        themoviedb.org
-# IP Address Not Found        api.themoviedb.org
-# IP Address Not Found        www.themoviedb.org
-# IP Address Not Found        auth.themoviedb.org
-# IP Address Not Found        image.tmdb.org
-# IP Address Not Found        images.tmdb.org
-# IP Address Not Found        imdb.com
-# IP Address Not Found        www.imdb.com
-# IP Address Not Found        secure.imdb.com
-# IP Address Not Found        s.media-imdb.com
-# IP Address Not Found        us.dd.imdb.com
-# IP Address Not Found        www.imdb.to
-# IP Address Not Found        origin-www.imdb.com
-# IP Address Not Found        ia.media-imdb.com
-# IP Address Not Found        imdb-video.media-imdb.com
-# IP Address Not Found        f.media-amazon.com
-# IP Address Not Found        thetvdb.com
-# IP Address Not Found        api.thetvdb.com
+140.82.113.25                 alive.github.com
+140.82.114.5                  api.github.com
+140.82.114.21                 api.individual.githubcopilot.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+140.82.114.21                 central.github.com
+185.199.108.133               cloud.githubusercontent.com
+140.82.113.9                  codeload.github.com
+140.82.113.22                 collector.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+140.82.113.4                  gist.github.com
+16.182.106.121                github-cloud.s3.amazonaws.com
+16.15.176.123                 github-com.s3.amazonaws.com
+16.15.219.140                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.207.90                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.192.161                 github-production-user-asset-6210df.s3.amazonaws.com
+192.0.66.2                    github.blog
+140.82.113.4                  github.com
+140.82.113.17                 github.community
+185.199.108.154               github.githubassets.com
+151.101.1.194                 github.global.ssl.fastly.net
+185.199.108.153               github.io
+185.199.108.133               github.map.fastly.net
+185.199.108.153               githubstatus.com
+140.82.114.26                 live.github.com
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+13.107.213.51                 vscode.dev
+140.82.113.21                 education.github.com
+185.199.108.133               private-user-images.githubusercontent.com
+18.160.200.103                tmdb.org
+13.32.205.113                 api.tmdb.org
+3.167.163.38                  files.tmdb.org
+108.159.227.111               themoviedb.org
+13.249.141.107                api.themoviedb.org
+108.159.227.111               www.themoviedb.org
+18.154.185.27                 auth.themoviedb.org
+185.93.1.250                  image.tmdb.org
+185.93.1.247                  images.tmdb.org
+44.215.137.99                 imdb.com
+3.168.33.143                  www.imdb.com
+98.82.155.134                 secure.imdb.com
+3.168.33.143                  s.media-imdb.com
+44.215.137.99                 us.dd.imdb.com
+3.168.33.143                  www.imdb.to
+44.215.137.99                 origin-www.imdb.com
+23.220.246.159                ia.media-imdb.com
+52.85.12.129                  imdb-video.media-imdb.com
+151.101.1.16                  f.media-amazon.com
+3.162.172.98                  thetvdb.com
+3.167.162.86                  api.thetvdb.com
 
 
-# Update time: 2025-12-12T11:21:03+08:00
+# Update time: 2025-12-12T20:38:02+08:00
 # Update url: https://raw.githubusercontent.com/hizml/GitHub-TMDB-Hosts/main/hosts
 # Star me: https://github.com/hizml/GitHub-TMDB-Hosts
 # Star original: https://github.com/521xueweihan/GitHub520
@@ -107,7 +107,7 @@
 
 ```
 
-该内容会自动定时更新，数据更新时间：2025-12-12T11:21:03+08:00
+该内容会自动定时更新，数据更新时间：2025-12-12T20:38:02+08:00
 
 #### 2. 修改 hosts 文件
 
